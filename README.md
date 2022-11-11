@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=snowhp&label=Profile%20views&color=0e75b6&style=flat" alt="snowhp" /> </p>
-
-
 - 🔭 I’m currently working on [42-cursus](https://github.com/snowhp/42-cursus)
 
 - 🌱 I’m currently learning **C programming!**
@@ -25,3 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snowhp&" alt="snowhp" /></p>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=snowhp&label=Profile%20views&color=0e75b6&style=flat" alt="snowhp" /> </p>

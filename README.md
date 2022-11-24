@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on [42-cursus](https://github.com/snowhp/42-cursus)
 
-- 🌱 I’m currently learning **C programming!**
+- 🌱 I’m currently learning **C programming** at [42 Porto](https://42porto.com)!
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/snowhp/)
 
 - 📫 How to reach me **tiagojsmachado@hotmail.com**
 

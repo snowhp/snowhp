@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 
-- 🔭 I’m currently working on [42-cursus](https://github.com/snowhp?tab=repositories)
+- 🔭 I’m currently studying on [42-cursus](https://github.com/snowhp?tab=repositories) and [Odin-Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
 - 🌱 I’m currently learning **C programming** at [42 Porto](https://42porto.com)!
 

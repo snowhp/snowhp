@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently studying on [42-cursus](https://github.com/snowhp?tab=repositories)!
 
-- 🌱 I’m currently learning **C programming** at [42 Porto](https://42porto.com)!
+- 🌱 I’m currently learning **C/C++ programming** at [42 Porto](https://42porto.com)!
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/snowhp/)
 

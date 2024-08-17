@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 
 <br>🔭 I’m currently finishing my [42-cursus](https://github.com/snowhp?tab=repositories)! 
-<br>👯 I’m open to opportunities in the job market!
 <br>🤝 I’m looking to help with other projects.
-<br>📫 How to reach me [tiagojsmachado@hotmail.com]
 
 #
 ![](https://github-readme-stats.vercel.app/api?username=snowhp&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)

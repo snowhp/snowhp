@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tiago</h1>
 
-<br>🔭 I’m currently finishing my [42-cursus](https://github.com/snowhp?tab=repositories)! 
+<br>🔭 I have finished [42-cursus](https://github.com/snowhp?tab=repositories)! 
 <br>🤝 I’m looking to help with other projects.
 
 #
